@@ -11,6 +11,6 @@ requests, which help in establishing API and receiving/pinging.
 json, which helps make the JSON data derived from the API readable.
 Webbrowser, which helps create a button embedded with a link to the poster. </p>
 <h2> Output </h2>
-![GUI](https://user-images.githubusercontent.com/103015857/201828120-27f3d955-5e65-4873-998e-29c885af99ce.png)
-![Output](https://user-images.githubusercontent.com/103015857/201828122-a07d66ce-430f-447c-8eb0-0f41f1e44a15.png)
-![Poster_PopUP](https://user-images.githubusercontent.com/103015857/201828123-c61ede99-76fd-4158-91bb-983a26a6d533.png)
+<p>![GUI](https://user-images.githubusercontent.com/103015857/201828120-27f3d955-5e65-4873-998e-29c885af99ce.png)</p>
+<p>![Output](https://user-images.githubusercontent.com/103015857/201828122-a07d66ce-430f-447c-8eb0-0f41f1e44a15.png)</p>
+<p>![Poster_PopUP](https://user-images.githubusercontent.com/103015857/201828123-c61ede99-76fd-4158-91bb-983a26a6d533.png)</p>
